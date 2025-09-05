@@ -4,9 +4,14 @@ tensorflow
 pandas
 numpy
 matplotlib
+<<<<<<< HEAD
 streamlit
 tensorflow
 pandas
 numpy
 matplotlib
 joblib
+=======
+joblib
+scikit-learn
+>>>>>>> 0dfe213 (Add joblib to requirements)
