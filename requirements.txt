@@ -11,7 +11,10 @@ pandas
 numpy
 matplotlib
 joblib
+<<<<<<< HEAD
 =======
 joblib
 scikit-learn
 >>>>>>> 0dfe213 (Add joblib to requirements)
+=======
+>>>>>>> 6bc4e33 (Add joblib to requirements)
