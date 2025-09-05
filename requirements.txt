@@ -1,5 +1,12 @@
+
 streamlit
 tensorflow
 pandas
 numpy
 matplotlib
+streamlit
+tensorflow
+pandas
+numpy
+matplotlib
+joblib
